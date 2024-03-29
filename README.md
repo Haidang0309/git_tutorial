@@ -1,12 +1,4 @@
-# 1. Introduction
-# 2. Contents
-## 2.1. Install
+# Muc luc
 
-- Windows
-- Linux
-- MacOS
-  
-  
-
-# 3. Demo
-# 4. Conclusion
+## [1. Gioi thieu ve git](docs/git.md)
+## [2. cac thuat ngu cua git](docs/git_terms.md)
